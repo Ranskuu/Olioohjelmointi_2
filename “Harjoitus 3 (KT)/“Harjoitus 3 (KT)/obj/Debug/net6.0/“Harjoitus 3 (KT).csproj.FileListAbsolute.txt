@@ -1,0 +1,15 @@
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\bin\Debug\net6.0\“Harjoitus 3 (KT).exe
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\bin\Debug\net6.0\“Harjoitus 3 (KT).deps.json
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\bin\Debug\net6.0\“Harjoitus 3 (KT).runtimeconfig.json
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\bin\Debug\net6.0\“Harjoitus 3 (KT).dll
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\bin\Debug\net6.0\“Harjoitus 3 (KT).pdb
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).csproj.AssemblyReference.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).AssemblyInfoInputs.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).AssemblyInfo.cs
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).csproj.CoreCompileInputs.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).dll
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\refint\“Harjoitus 3 (KT).dll
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).pdb
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\“Harjoitus 3 (KT).genruntimeconfig.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\“Harjoitus 3 (KT)\“Harjoitus 3 (KT)\obj\Debug\net6.0\ref\“Harjoitus 3 (KT).dll

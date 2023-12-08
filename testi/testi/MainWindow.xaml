@@ -1,0 +1,15 @@
+﻿<Window x:Class="testi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Nappi" Content="Nappi" Margin="264,172,264,172" Click="Button_Click"/>
+        <TextBox TextWrapping="Wrap" Text="TextBox" Margin="566,134,83,217" TextChanged="TextBox_TextChanged"/>
+        <Image Margin="359,271,39,10" Source="/maailman paras kuva.png"/>
+
+    </Grid>
+</Window>

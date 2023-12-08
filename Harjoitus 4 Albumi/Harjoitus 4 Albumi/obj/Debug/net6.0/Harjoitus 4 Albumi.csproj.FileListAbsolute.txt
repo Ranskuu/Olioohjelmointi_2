@@ -1,0 +1,15 @@
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\bin\Debug\net6.0\Harjoitus 4 Albumi.exe
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\bin\Debug\net6.0\Harjoitus 4 Albumi.deps.json
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\bin\Debug\net6.0\Harjoitus 4 Albumi.runtimeconfig.json
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\bin\Debug\net6.0\Harjoitus 4 Albumi.dll
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\bin\Debug\net6.0\Harjoitus 4 Albumi.pdb
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.csproj.AssemblyReference.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.AssemblyInfoInputs.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.AssemblyInfo.cs
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.csproj.CoreCompileInputs.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.dll
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\refint\Harjoitus 4 Albumi.dll
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.pdb
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\Harjoitus 4 Albumi.genruntimeconfig.cache
+C:\Users\rino.vask\source\repos\Ranskuu\Olioohjelmointi_2\Harjoitus 4 Albumi\Harjoitus 4 Albumi\obj\Debug\net6.0\ref\Harjoitus 4 Albumi.dll
